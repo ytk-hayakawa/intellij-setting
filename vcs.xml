@@ -6,7 +6,12 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="ytk.hayakawa@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/hykw-const/dev01" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\yutakah\IdeaProjects" />
   </component>
 </application>
